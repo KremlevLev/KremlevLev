@@ -31,7 +31,7 @@ I build end-to-end ML systems — from raw data and feature engineering to produ
 
 ---
 
-### **🎯 Retail Video OCR Pipeline** — Лента CV Hackathon
+### **🎯 Retail Video OCR Pipeline** — Lenta CV Hackathon
 *Production CV system for price tag extraction from video stream*
 * YOLOv8 + custom IoU tracker · PaddleOCR → EasyOCR cascade
 * Throughput: 7 → 19 FPS · OCR inferences reduced by 22%
