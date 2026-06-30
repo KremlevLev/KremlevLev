@@ -9,16 +9,16 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       
-      # Используем правильный экшен, у которого есть action.yml
-      - uses: vn7n24f1tknh/github-readme-stats-action@main
+      # Официальный генератор картинок от создателей проекта
+      - uses: anuraghazra/github-readme-stats-action@v2
         with:
           username: KremlevLev
           theme: radical
           show_icons: true
           include_all_commits: true
           count_private: true
-          
-      # Этот шаг автоматически сохранит сгенерированные картинки в ваш репозиторий
+
+      # Автоматический пуш сгенерированных SVG-картинок обратно в репозиторий
       - name: Commit changes
         run: |
           git config --local user.email "action@github.com"
