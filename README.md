@@ -44,12 +44,6 @@ I build end-to-end ML systems — from raw data and feature engineering to produ
 * Time-series feature engineering · gradient boosting · overfitting control
 * [→ github](https://github.com/KremlevLev/X5_HSE_Grad_solution)
 
----
-
-### **🤖 LLM Trading Agent** — MOEX AI Hackathon
-*Investment decision agent (buy/hold/sell) based on Mistral 7B fine-tuning*
-* Quant signals + news NLP · prompt engineering · structured JSON output
-* FastAPI backend integration
 
 ---
 
