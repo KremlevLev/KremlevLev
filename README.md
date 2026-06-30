@@ -10,7 +10,7 @@ MIREA — Artificial Intelligence & Machine Learning. Hackathon finalist. Buildi
 I build end-to-end ML systems — from raw data and feature engineering to production inference and deployment. Currently deep into LLM internals, agent architectures and RL theory.
 
 ---
-
+![snake svg](https://raw.githubusercontent.com/KremlevLev/KremlevLev/output/github-contribution-grid-snake.svg)
 
 ## 𝔓𝔯𝔬𝔧𝔢𝔠𝔱𝔰
 
