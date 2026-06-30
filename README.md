@@ -1,3 +1,9 @@
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KremlevLev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Lev's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KremlevLev&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
+</p>
+
 # 𝔏𝔢𝔳 𝔎𝔯𝔢𝔪𝔩𝔢𝔳
 > *"Building things from scratch until they work."*
 
@@ -10,11 +16,6 @@ MIREA — Artificial Intelligence & Machine Learning. Hackathon finalist. Buildi
 I build end-to-end ML systems — from raw data and feature engineering to production inference and deployment. Currently deep into LLM internals, agent architectures and RL theory.
 
 ---
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KremlevLev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Lev's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KremlevLev&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
-</p>
 
 ## 𝔓𝔯𝔬𝔧𝔢𝔠𝔱𝔰
 
