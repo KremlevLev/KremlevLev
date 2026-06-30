@@ -11,6 +11,12 @@ I build end-to-end ML systems — from raw data and feature engineering to produ
 
 ---
 
+## 📊 GitHub Stats 
+<p align="center"> 
+  <img src="./profile/stats.svg" alt="Lev's GitHub Stats" /> 
+  <img src="./profile/top-langs.svg" alt="Top Langs" /> 
+</p>
+
 ## 𝔓𝔯𝔬𝔧𝔢𝔠𝔱𝔰
 
 ### **🏦 High-Load RAG Pipeline** — Alfa-Bank & MIPT Hackathon
