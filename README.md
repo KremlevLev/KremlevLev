@@ -1,4 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=slice&color=111111&customColorList=050505,151515,1a1b27&height=150&section=header&animation=fadeIn)
 # 𝔏𝔢𝔳 𝔎𝔯𝔢𝔪𝔩𝔢𝔳
 > *"Building things from scratch until they work."*
 
