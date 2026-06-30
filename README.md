@@ -1,5 +1,5 @@
 # 𝔏𝔢𝔳 𝔎𝔯𝔢𝔪𝔩𝔢𝔳
-> *"Building things from scratch until they work."*
+> *"𝔅𝔲𝔦𝔩𝔡𝔦𝔫𝔤 𝔱𝔥𝔦𝔫𝔤𝔰 𝔣𝔯𝔬𝔪 𝔰𝔠𝔯𝔞𝔱𝔠𝔥 𝔲𝔫𝔱𝔦𝔩 𝔱𝔥𝔢𝔶 𝔴𝔬𝔯𝔨. 𝔚𝔢 𝔞𝔯𝔢 𝔫𝔬𝔱 𝔶𝔬𝔲𝔯 𝔨𝔦𝔫𝔡𝔰."*
 
 ML Engineer focused on LLM systems, AI agents and deep learning.  
 MIREA — Artificial Intelligence & Machine Learning. Hackathon finalist. Building transformers on JAX for fun.
