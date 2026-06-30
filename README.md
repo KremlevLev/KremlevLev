@@ -78,5 +78,11 @@ stack = {
 [![Gmail](https://img.shields.io/badge/Gmail-kremlevlev89-D14836?style=for-the-badge&logo=gmail)](mailto:kremlevlev89@gmail.com)
 
 <p align="center">
+  [![Telegram](https://img.shields.io/badge/Telegram-@yearofstilness-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/yearofstilness) &nbsp;
+  [![Kaggle](https://img.shields.io/badge/Kaggle-levkremlev-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/levkremlev) &nbsp;
+  [![Gmail](https://img.shields.io/badge/Gmail-kremlevlev89-D14836?style=for-the-badge&logo=gmail)](mailto:kremlevlev89@gmail.com)
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KremlevLev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
