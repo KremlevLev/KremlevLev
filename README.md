@@ -69,6 +69,7 @@ stack = {
     "ml / dl":   ["PyTorch", "JAX", "CatBoost", "XGBoost", "Scikit-learn"],
     "llm / nlp": ["vLLM", "LangChain", "LangGraph", "FAISS", "BM25"],
     "infra":     ["Docker", "FastAPI", "SQL", "Git"],
+    }
 ```
 
 ## 𝔉𝔦𝔫𝔡 𝔪𝔢
@@ -76,3 +77,7 @@ stack = {
 [![Telegram](https://img.shields.io/badge/Telegram-@yearofstilness-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/yearofstilness)
 [![Kaggle](https://img.shields.io/badge/Kaggle-levkremlev-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/levkremlev)
 [![Gmail](https://img.shields.io/badge/Gmail-kremlevlev89-D14836?style=for-the-badge&logo=gmail)](mailto:kremlevlev89@gmail.com)
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KremlevLev&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
