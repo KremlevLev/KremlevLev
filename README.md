@@ -9,6 +9,10 @@ MIREA — Artificial Intelligence & Machine Learning. Hackathon finalist. Buildi
 ## ⚔️ About
 I build end-to-end ML systems — from raw data and feature engineering to production inference and deployment. Currently deep into LLM internals, agent architectures and RL theory.
 
+<p align="left">
+  <img src="https://tenor.com/bG5OH.gif" width="180" />
+</p>
+
 ---
 
 ## 𝔓𝔯𝔬𝔧𝔢𝔠𝔱𝔰
