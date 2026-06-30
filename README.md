@@ -76,7 +76,7 @@ stack = {
 [![Telegram](https://img.shields.io/badge/Telegram-@yearofstilness-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/yearofstilness)
 [![Kaggle](https://img.shields.io/badge/Kaggle-levkremlev-20BEFF?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/levkremlev)
 [![Gmail](https://img.shields.io/badge/Gmail-kremlevlev89-D14836?style=for-the-badge&logo=gmail)](mailto:kremlevlev89@gmail.com)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-levkremlev888-FFD21E?style=flat&logo=huggingface)](https://huggingface.co/levkremlev888)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-levkremlev888-FFD21E?style=for-the-badge&logo=huggingface)](https://huggingface.co/levkremlev888)
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=KremlevLev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
