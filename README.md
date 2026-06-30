@@ -11,11 +11,6 @@ I build end-to-end ML systems — from raw data and feature engineering to produ
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://vercel.app" alt="Lev's GitHub Stats" />
-  <img src="https://vercel.app" alt="Top Langs" />
-</p>
 
 ## 𝔓𝔯𝔬𝔧𝔢𝔠𝔱𝔰
 
@@ -74,6 +69,11 @@ stack = {
     "ml / dl":   ["PyTorch", "JAX", "CatBoost", "XGBoost", "Scikit-learn"],
     "llm / nlp": ["vLLM", "LangChain", "LangGraph", "FAISS", "BM25"],
     "infra":     ["Docker", "FastAPI", "SQL", "Git"],
+```
+<p align="center">
+  <img src="https://seeyoufarm.com" alt="profile check" />
+</p>
+
 }
 ```
 
