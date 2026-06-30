@@ -76,7 +76,7 @@ stack = {
 ```
 
 <p align="left">
-  <img src="[https://tenor.com/bG5OH.gif](https://media.tenor.com/eBcBEzTXhy0AAAPo/slipknot-joey-jordison.mp4)" width="180" />
+  <img src="https://media.tenor.com/C74hD3m7f68AAAAC/slipknot-joey-jordison.gif" width="180" />
 </p>
 
 ## 𝔉𝔦𝔫𝔡 𝔪𝔢
