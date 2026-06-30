@@ -12,7 +12,7 @@ I build end-to-end ML systems — from raw data and feature engineering to produ
 ---
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ВАШ_НИК&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Lev's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KremlevLev&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Lev's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KremlevLev&layout=compact&theme=radical&hide_border=true" alt="Top Langs" />
 </p>
 
