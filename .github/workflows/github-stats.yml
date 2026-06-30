@@ -1,17 +1,28 @@
 name: GitHub Stats
 on:
   schedule:
-    - cron: '0 */6 * * *' # Updates every 6 hours
-  workflow_dispatch:
+    - cron: '0 */6 * * *' # Обновление каждые 6 часов
+  workflow_dispatch: # Позволяет запускать вручную
 jobs:
   update-stats:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: anuraghazra/github-readme-stats@master
+      
+      # Используем правильный экшен, у которого есть action.yml
+      - uses: vn7n24f1tknh/github-readme-stats-action@main
         with:
           username: KremlevLev
           theme: radical
           show_icons: true
           include_all_commits: true
           count_private: true
+          
+      # Этот шаг автоматически сохранит сгенерированные картинки в ваш репозиторий
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add .
+          git diff --quiet && git diff --staged --quiet || git commit -m "Update GitHub Stats"
+          git push
