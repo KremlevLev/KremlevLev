@@ -1,0 +1,17 @@
+name: GitHub Stats
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Updates every 6 hours
+  workflow_dispatch:
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: anuraghazra/github-readme-stats@main
+        with:
+          username: KremlevLev
+          theme: radical
+          show_icons: true
+          include_all_commits: true
+          count_private: true
