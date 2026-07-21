@@ -3,7 +3,7 @@
  
 ML Engineer focused on LLM systems, AI agents and deep learning.  
 MIREA — Artificial Intelligence & Machine Learning. Hackathon finalist. Building transformers on JAX for fun.
-
+ 
 ---
 
 ## ⚔️ About
