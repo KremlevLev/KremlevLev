@@ -1,75 +1,27 @@
 # 𝔏𝔢𝔳 𝔎𝔯𝔢𝔪𝔩𝔢𝔳
-> *"𝔅𝔲𝔦𝔩𝔡𝔦𝔫𝔤 𝔱𝔥𝔦𝔫𝔤𝔰 𝔣𝔯𝔬𝔪 𝔰𝔠𝔯𝔞𝔱𝔠𝔥 𝔲𝔫𝔱𝔦𝔩 𝔱𝔥𝔢𝔶 𝔴𝔬𝔯𝔨. 𝔚𝔢 𝔞𝔯𝔢 𝔫𝔬𝔱 𝔶𝔬𝔲𝔯 𝔨𝔦𝔫𝔡𝔰."*
 
-ML Engineer focused on LLM systems, AI agents and deep learning.  
-MIREA — Artificial Intelligence & Machine Learning. Hackathon finalist. Building transformers on JAX for fun.
+> *"𝔅𝔲𝔦𝔩𝔡𝔦𝔫𝔤 𝔱𝔥𝔦𝔫𝔤𝔰 𝔣𝔯𝔬𝔪 𝔰𝔠𝔯𝔞𝔱𝔠𝔥 𝔲𝔫𝔱𝔦𝔩 𝔱𝔥𝔢𝔶 𝔴𝔬𝔯𝔨."*
 
----
+**ML Engineer** focused on LLM systems, AI agents and deep learning.
 
-## ⚔️ About
-I build end-to-end ML systems — from raw data and feature engineering to production inference and deployment. Currently deep into LLM internals, agent architectures and RL theory.
+Interested in LLM architecture, SSMs, inference optimization and production ML.
 
 ---
 
-## 𝔓𝔯𝔬𝔧𝔢𝔠𝔱𝔰
+## ⚔️ 𝔄𝔯𝔢𝔞𝔰 𝔬𝔣 𝔦𝔫𝔱𝔢𝔯𝔢𝔰𝔱
 
-### **🏦 High-Load RAG Pipeline** — Alfa-Bank & MIPT Hackathon
-*Production RAG system (~7000 queries) optimized for BERTScore-Recall-L*
-* FAISS (bge-m3) + BM25 + RRF · cross-encoder reranking
-* vLLM continuous batching · 2×T4 GPU-aware architecture
-* Latency reduced by ~25%
-* [→ github](https://github.com/KremlevLev/RAG-Pipeline-for-High-Load-Banking-Data)
-
----
-
-### **🛡️ PII Leak Detection** — ARENA DATA (Top 6 / 25 teams)
-*ML pipeline for personal data leak detection*
-* 3-tier architecture: rule-engine → classification → scoring
-* TF-IDF + LogReg · CatBoost with contextual scoring
-* 35% FP reduction
-* [→ github](https://github.com/the-boys-organization/Automatic-detection-of-personal-data-ArenaData-)
-
----
-
-### **🎯 Retail Video OCR Pipeline** — Lenta CV Hackathon
-*Production CV system for price tag extraction from video stream*
-* YOLOv8 + custom IoU tracker · PaddleOCR → EasyOCR cascade
-* Throughput: 7 → 19 FPS · OCR inferences reduced by 22%
-* [→ github](https://github.com/the-boys-organization/LENTA-CV-PRODUCTION)
-
----
-
-### **📈 Retail Turnover Forecasting** — X5 Tech Gradient (Final)
-*Predictive model for store RTO forecasting · 90.45 score*
-* Time-series feature engineering · gradient boosting · overfitting control
-* [→ github](https://github.com/KremlevLev/X5_HSE_Grad_solution)
-
-
----
-
-### **⚙️ BPE Tokenizer from scratch**
-*Byte-level BPE tokenizer · GPT-2 regex · O(n log n) complexity*
-* Built for deep understanding of LLM tokenization internals
-* [→ github](https://github.com/KremlevLev/bpe-tokenizer-gpt)
-
----
-
-### **🔬 LLM from Scratch — JAX**
-*Transformer implementation: Self-Attention · Multi-Head · MoE · MLA*
-* Researching memory efficiency and inference optimization
-* RAG experiments on custom architecture — ongoing
+- LLM architecture
+- Transformer / SSM hybrids
+- Mamba
+- inference optimization
+- AI agents
+- production ML
 
 ---
 
 ## 𝔖𝔱𝔞𝔠𝔨
 
-```python
-stack = {
-    "ml / dl":   ["PyTorch", "JAX", "CatBoost", "XGBoost", "Scikit-learn"],
-    "llm / nlp": ["vLLM", "LangChain", "LangGraph", "FAISS", "BM25"],
-    "infra":     ["Docker", "FastAPI", "SQL", "Git"],
-    }
-```
+`Python` · `PyTorch` · `JAX` · `FastAPI` · `Docker` · `SQL` · `vLLM` · `Git`
 
 ## 𝔉𝔦𝔫𝔡 𝔪𝔢
 
