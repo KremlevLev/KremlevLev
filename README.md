@@ -21,7 +21,7 @@ Interested in LLM architecture, SSMs, inference optimization and production ML.
 
 ## 𝔖𝔱𝔞𝔠𝔨
 
-`Python` · `PyTorch` · `JAX` · `FastAPI` · `Docker` · `SQL` · `vLLM` · `Git`
+`Python` · `PyTorch` · `JAX` · `FastAPI` · `Docker` · `SQL` · `vLLM` · `Git` · `...`
 
 ## 𝔉𝔦𝔫𝔡 𝔪𝔢
 
