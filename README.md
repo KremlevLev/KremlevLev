@@ -4,8 +4,6 @@
 
 **ML Engineer** focused on LLM systems, AI agents and deep learning.
 
-Interested in LLM architecture, SSMs, inference optimization and production ML.
-
 ---
 
 ## ⚔️ 𝔄𝔯𝔢𝔞𝔰 𝔬𝔣 𝔦𝔫𝔱𝔢𝔯𝔢𝔰𝔱
