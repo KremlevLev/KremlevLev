@@ -2,14 +2,14 @@
 
 > *"𝔅𝔲𝔦𝔩𝔡𝔦𝔫𝔤 𝔱𝔥𝔦𝔫𝔤𝔰 𝔣𝔯𝔬𝔪 𝔰𝔠𝔯𝔞𝔱𝔠𝔥 𝔲𝔫𝔱𝔦𝔩 𝔱𝔥𝔢𝔶 𝔴𝔬𝔯𝔨."*
 
-**ML Engineer** focused on LLM systems, AI agents and deep learning.
+**ML Engineer**
 
 ---
 
 ## ⚔️ 𝔄𝔯𝔢𝔞𝔰 𝔬𝔣 𝔦𝔫𝔱𝔢𝔯𝔢𝔰𝔱
 
-- LLM architecture
-- Transformer / SSM hybrids
+- LLM
+- Transformer + SSM hybrids
 - Mamba
 - inference optimization
 - AI agents
@@ -19,7 +19,7 @@
 
 ## 𝔖𝔱𝔞𝔠𝔨
 
-`Python` · `PyTorch` · `JAX` · `FastAPI` · `Docker` · `SQL` · `TensorRT` · `Triton` · `...`
+`Python` · `PyTorch` · `JAX` · `FastAPI` · `Docker` · `TensorRT` · `Triton` · `...`
 
 ## 𝔉𝔦𝔫𝔡 𝔪𝔢
 
