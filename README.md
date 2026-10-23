@@ -21,13 +21,11 @@
 ## 𝔉𝔦𝔫𝔡 𝔪𝔢
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/eBcBEzTXhy0AAAAd/slipknot-joey-jordison.gif" width="220" />
-</p>
-
-<p align="center">
   <a href="https://t.me/yearofstillness"><img src="https://img.shields.io/badge/Telegram-@yearofstilness-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="https://huggingface.co/levkremlev888"><img src="https://img.shields.io/badge/Hugging%20Face-levkremlev888-FFD21E?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=373737" /></a>
   <a href="mailto:kremlevlev89@gmail.com"><img src="https://img.shields.io/badge/Gmail-kremlevlev89-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-
+<p align="center">
+  <img src="https://media1.tenor.com/m/eBcBEzTXhy0AAAAd/slipknot-joey-jordison.gif" width="220" />
+</p>
