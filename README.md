@@ -30,7 +30,4 @@
   <a href="mailto:kremlevlev89@gmail.com"><img src="https://img.shields.io/badge/Gmail-kremlevlev89-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KremlevLev&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
- 
+
