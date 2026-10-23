@@ -8,9 +8,8 @@
 - LLM
 - Transformer + SSM hybrids
 - Mamba
-- inference optimization
-- AI agents
-- production ML
+- Inference optimization
+- Agents
 
 ---
 
