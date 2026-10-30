@@ -68,6 +68,14 @@
 
 Russian — Native · English — C4 · Arabic — A1
 
+## Impact at a whitespace
+
+| Initiative | Engineering outcome | Validation |
+| --- | --- | --- |
+| Whitespace Engineering | Внедрил пробел между двумя словами. | Слова разделяют решение. |
+| Continuous Delivery | Доставил изменение в README. | README получил изменение. |
+| Release Management | Перенёс строку. | Миграция прошла без потери букв. |
+
 ## Projects & Achievements
 
 | Project | What I did | Result |
