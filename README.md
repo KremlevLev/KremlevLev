@@ -75,7 +75,7 @@ Russian — Native · English — C4 · Arabic — A1
 | [Extent](https://github.com/KremlevLev/extent) | Заменил Qwen большую часть attention на Mamba-3. | Теперь у обоих дефицит внимания. |
 | Architecture Recovery | Восстанавливаю качество после собственных архитектурных улучшений. | Создал себе рабочее место. |
 | Knowledge Distillation | Организовал передачу знаний от teacher к student. | Родителей вызвали на TPU. |
-| [Hugging Face](https://huggingface.co/datasets/levkremlev888/extent) | Опубликовал экспериментальные артефакты. | Тысячи скачиваний. Люди забирают результаты моих экспериментов добровольно. |
+| [Hugging Face](https://huggingface.co/datasets/levkremlev888/extent) | Опубликовал экспериментальные артефакты. | Тысячи скачиваний. Люди забирают результаты моих экспериментов добровольно. 3.5к+ |
 
 ## Selected achievements
 
